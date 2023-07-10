@@ -1,7 +1,7 @@
 version: '3'
 
 services:
-  lazyfolks:
+  crimereport:
     container_name: crimereport
     build:
       context: .
